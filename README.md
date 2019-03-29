@@ -1,6 +1,6 @@
 <a name="___top"></a>
 # cloc
-*Count Lines of Code*
+*Count Lines of Code..dummy change*
 
 * * *
 cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
@@ -2368,6 +2368,7 @@ for http://studybay.com.
 
 The development of cloc was partially funded by the Northrop Grumman
 Corporation.
+
 
 [](1}}})
 <a name="Copyright"></a> []({{{1)
